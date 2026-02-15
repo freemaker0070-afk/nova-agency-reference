@@ -2,6 +2,7 @@
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
+  basePath: '/nova-agency-reference',
   images: {
     unoptimized: true,
     remotePatterns: [
